@@ -48,7 +48,7 @@ qualidade_desejada = 'F-HD'  # Pode ser 'SD', 'HD' ou 'F-HD'
 baixar_todas_qualidades = False
 
 # Intervalo de 20 segundos entre os downloads para evitar sobrecargas
-intervalo_entre_downloads = 20
+intervalo_entre_downloads = 5
 
 # Processando cada link fornecido pelo usuário
 for link_original in links_episodios:
